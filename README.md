@@ -540,7 +540,7 @@ This project is open source and available for educational purposes.
 
 ## 👨‍💻 Author
 
-Created as an educational C programming project.
+Md Nuruzzaman Chowdhury
 
 ## 🤝 Contributing
 
